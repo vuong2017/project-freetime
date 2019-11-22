@@ -26,6 +26,7 @@
     "nodemon": "^1.19.1",
     "redis": "^2.8.0",
     "rimraf": "^3.0.0",
+    "uuid": "^3.3.3",
     "validator": "^12.1.0"
   },
   "devDependencies": {
